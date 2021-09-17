@@ -1,16 +1,20 @@
-# <a href="repository.TVArcanjoRepo.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="repository.TVArcanjoRepo.zip">Como baixar a TVArcanjo</a>
 
-Instruções para a adição no gestor:
+Para adicionar o nosso Add-on no seu Kodi via Gestor de Arquivos é só fazer o passo a passo abaixo:
 
 
 <p align="left">
   <ul>
-    <li>Ir para o Kodi gestor de ficheiros.</li>
-    <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://tvarcanjo.github.io/TVArcanjoRepo/</code> (Dar o nome de "repository.TVArcanjoRepo").</li>
-    <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repository.TVArcanjoRepo", e instalar <a href="repository.TVArcanjoRepo.zip">repository.TVArcanjoRepo.zip</a>.</li>
+    <li>Ir em Configurações</li>
+    <li>Clicar em "Adicionar Origem"</li>
+    <li>Você vai digitar o seguinte endereço:<code>https://tvarcanjo.github.io/TVArcanjoRepo/</code> (Automáticamente irá gerar o nome de "repository.TVArcanjoRepo").</li>
+    <li>Você clica em "OK"</li>
+    <li>Feito isso, você volta até a tela de Configurações.</li>
+    <li>Próximo passo:</li>
+    <li>Clica em "Add-ons"</li>
+    <li>Em Addons, você clica em instalar a partir de um arquivo zip. Quando perguntar pela localização, selecionar "repository.TVArcanjoRepo", e instalar <a href="repository.TVArcanjoRepo.zip">repository.TVArcanjoRepo.zip</a>.</li>
     -
+    <li>Prontinho agora só aguardar que a Sua diversão está garantida❤!</li>
     <li>Repositório Instalado!</li>
     
 </ul>
