@@ -7,7 +7,7 @@ Para adicionar o nosso Add-on no seu Kodi via Gestor de Arquivos é só fazer o 
   <ul>
     <li>Ir em Configurações</li>
     <li>Clicar em "Adicionar Origem"</li>
-    <li>Você vai digitar o seguinte endereço:<code>https://tvarcanjo.github.io/TVArcanjoRepo/</code> (Automáticamente irá gerar o nome de "repository.TVArcanjoRepo").</li>
+    <li>Você vai digitar o seguinte endereço:<code>https://tvarcanjo.github.io/TVArcanjoRepo/</code> (Automáticamente irá gerar o nome de "TVArcanjoRepo").</li>
     <li>Você clica em "OK"</li>
     <li>Feito isso, você volta até a tela de Configurações.</li>
     <li>Próximo passo:</li>
