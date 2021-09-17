@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# <a href="repository.TVArcanjoRepo.zip">DOWNLOADDO REPOSITÓRIO</a>
 
-You can use the [editor on GitHub](https://github.com/TVArcanjo/TVArcanjoRepo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Instruções para a adição no gestor:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<p align="left">
+  <ul>
+    <li>Ir para o Kodi gestor de ficheiros.</li>
+    <li>Clicar em "Adicionar fonte"</li>
+    <li>O endereço para a fonte é <code>https://tvarcanjo.github.io/TVArcanjoRepo/</code> (Dar o nome de "repository.TVArcanjoRepo").</li>
+    <li>Ir para "Addons"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repository.TVArcanjoRepo", e instalar <a href="repository.TVArcanjoRepo.zip">repository.TVArcanjoRepo.zip</a>.</li>
+    -
+    <li>Repositório Instalado!</li>
+    
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                                      
+                                       
 
-```markdown
-Syntax highlighted code block
+</p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TVArcanjo/TVArcanjoRepo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
